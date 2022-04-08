@@ -5,9 +5,4 @@ This repository aims to segment modules from aerial photography taken with drone
 <img src="data.png" width="850">
 </p>
 
-
-## dev
-* `python3 -m venv venv`
-* `source venv/bin/activate`
-* `pip install -r requirements.txt`
-* Open `Solar_Images.ipynb`
+Open `Solar_Images.ipynb` and hit the Open in Colab button
