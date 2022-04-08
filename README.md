@@ -1,6 +1,6 @@
 # Solar Segmentation
 
-This repository aims to segment modules from aerial photography taken with drones.
+This repository aims to segment modules from aerial photography taken with drones. See [this thread](https://forums.fast.ai/t/segmentation-for-solar-pv-panels/26794)
 
 ## Requirements:
 
